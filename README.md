@@ -3,9 +3,9 @@
 
 - 💬 Consultame todo sobre **HTML, CSS, JavaScript, React, Redux y Node.js**
 
-- 📫 Contactate conmigo mediante **leizarohwain@gmail.com**
+- 📫 Comunicate conmigo mediante **leizarohwain@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contactate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/leiza rohwain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leiza rohwain" height="30" width="40" /></a>
 <a href="https://fb.com/leiza rohwain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="leiza rohwain" height="30" width="40" /></a>
