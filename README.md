@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Leiza Rohwain</h1>
-<h3 align="center">Soy una Full Stack Developer, apasionada por el FrontEnd</h3>
+<h3 align="center">Soy Full Stack Developer, apasionada por el FrontEnd</h3>
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Redux y Node.js**
 
