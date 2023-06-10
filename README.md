@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, me llamo Leiza Rohwain</h1>
 <h3 align="center">Soy Full Stack Developer, apasionada por el FrontEnd</h3>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux y Node.js**
+- 💬 Consultame todo sobre **HTML, CSS, JavaScript, React, Redux y Node.js**
 
-- 📫 How to reach me **leizarohwain@gmail.com**
+- 📫 Contactate conmigo mediante **leizarohwain@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
